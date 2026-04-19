@@ -4,4 +4,5 @@ Este trabalho tem como objetivo a coleta de dados em tempo real, profundidade de
 📊 Monitoramento Climático em Tempo Real
 Acompanhe os dados de temperatura e umidade da região de Paragominas-PA através do nosso dashboard público no ThingSpeak:
 
-[Acesse o Dashboard Aqui](https://thingspeak.mathworks.com/channels/3019244)
+[Acesse o Dashboard Aqui](GET https://api.thingspeak.com/channels/3019244/feeds.json?results=2​​​
+)
