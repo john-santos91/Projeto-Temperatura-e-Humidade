@@ -9,7 +9,7 @@ Acompanhe os dados em tempo real através do nosso dashboard público no ThingSp
 ## 📥 Como utilizar
 Para registrar seus próprios dados ou usar esta planilha:
 
-1. Clique aqui para copiar a planilha para o seu Google Drive: [Baixar Planilha](https://docs.google.com/spreadsheets/d/1didR0qBQHyWz1WnN2VL4cNJRPEZ_EsTe2viEG4fSVuc/copy)
+1. Clique aqui para copiar a planilha para o seu Google Drive: [Baixar Planilha](https://docs.google.com/spreadsheets/d/1gCyJlOxrNcJTOsrrE3sg89UbaWmGObr6tCUdRNChFNM/copy)
 2. Após copiar, vá em **Extensões > Apps Script**.
 3. Substitua `INSIRA_SEU_CHANNEL_ID_AQUI` pelo seu ID do ThingSpeak.
 4. Substitua `INSIRA_SUA_API_KEY_AQUI` pela sua chave (Read API Key).
