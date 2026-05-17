@@ -23,5 +23,10 @@ https://github.com/user-attachments/assets/9a5df710-0755-4348-ae5e-6e041464e2d1
 
 https://github.com/user-attachments/assets/dda958a2-c961-483c-bd7c-45e65e2b6124
 
+<img width="1200" height="1600" alt="arduino3" src="https://github.com/user-attachments/assets/a8f8b558-4bfe-4f1f-9799-12bce65f1cab" />
+<img width="1200" height="1600" alt="arduino4" src="https://github.com/user-attachments/assets/4a16e095-5dc3-4fbf-a850-de4726068926" />
+
+
+
 ---
 *Autor: John Santos - Acadêmico de Engenharia Elétrica*
