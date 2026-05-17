@@ -15,5 +15,13 @@ Para registrar seus próprios dados ou usar esta planilha:
 4. Substitua `INSIRA_SUA_API_KEY_AQUI` pela sua chave (Read API Key).
 5. Salve e execute o script!
 
+
+### 📋 Sobre o Projeto
+Este vídeo apresenta o desenvolvimento de um protótipo para monitoramento climático em tempo real. O sistema utiliza a plataforma Arduino para ler variáveis de temperatura e umidade e fornecer um feedback visual instantâneo ao usuário.
+
+https://github.com/user-attachments/assets/9a5df710-0755-4348-ae5e-6e041464e2d1
+
+https://github.com/user-attachments/assets/dda958a2-c961-483c-bd7c-45e65e2b6124
+
 ---
 *Autor: John Santos - Acadêmico de Engenharia Elétrica*
